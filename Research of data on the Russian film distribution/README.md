@@ -1,6 +1,8 @@
 
 # Research of data on the Russian film distribution
 
+![Logo](https://raw.githubusercontent.com/Alefair/DS/main/Research%20of%20data%20on%20the%20Russian%20film%20distribution/logo.png)
+
 ## Links
 1
 
@@ -59,7 +61,9 @@ Special attention is paid to films that have received state support.
 - And they also found out that the largest amount of public funds was provided for the film with famous actors Jackie Chan and Arnold Schwarzenegger 'Journey to China: The Mystery of Iron Mask', state support amounted to as much as 180,000 rubles of refundable funds
 
 - And as a result, we found out that the most ideal film **is a feature film in the drama genre for people over 16 years old!**
+
 <br><br>
+
 **I suggest paying attention to the Drama genre with an age limit of +12. And use the state budget no more than 20%. This will be the golden mean :-)
 For comparison, I suggested paying attention to the films "Three Seconds", "SON OF A RICH", "Posledniy Bogatier"**
 
