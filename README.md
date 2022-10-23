@@ -28,8 +28,7 @@ Enjoy watching)))
         <code>pandas</code>
         <code>datetime</code>
         <code>bs4</code>
-        <code>BeautifulSoup</code>
-        <code>IPython.display</code>
+        <code>IPython</code>
         <code>matplotlib</code>
         <code>numpy</code>
         <code>os</code>
